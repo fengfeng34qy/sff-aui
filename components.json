@@ -1,0 +1,4 @@
+{
+  "index": "./packages/index.js",
+  "sff-box": "./packages/sff-box/index.js"
+}
